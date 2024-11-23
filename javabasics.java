@@ -1,6 +1,6 @@
 // import java.util.*;
 public class javabasics{
- 
+ // palindrome
 
     public static void check_palindrome(int number){  
     System.out.println("enter the nubmer to check palindrome");

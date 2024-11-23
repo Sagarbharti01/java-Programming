@@ -1,5 +1,5 @@
 public class linkedlist {
-
+// linked list (addFirst , addLast)
 
     static class mode {
         int data ;
