@@ -1,6 +1,7 @@
 import java.util.Stack;
 
 public class stack05 {
+    // reverse of stack element.
     public static void PushAtBottom(Stack<Integer> s, int data){
         while (s.isEmpty()) {
              s.push(data);
